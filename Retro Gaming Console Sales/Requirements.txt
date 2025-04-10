@@ -1,5 +1,3 @@
-Okay, here's a concise bulleted list of contextual requirements for the gaming console project, including your student role at a tech bootcamp (TripleTen):
-
 * **Project Context:** Guided Case Study within a tech bootcamp curriculum (TripleTen) for learning basic Python.
 * **Learner Role:** Student completing the project to demonstrate foundational Python skills.
 * **Project Goal:** Analyze a dataset of historical gaming console sales data.
