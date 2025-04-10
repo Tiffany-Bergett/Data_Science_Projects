@@ -6,15 +6,14 @@ This project involved analyzing a dataset of historical gaming console sales dat
 [<img src="https://github.com/Tiffany-Bergett/tiffany-bergett/blob/main/Images/GameConsoles.png" alt="Gaming Console Data Analysis Sample">](URL OF DESTINATION)  
 The video overview can be found [HERE]().  
 The project can be found [HERE](https://colab.research.google.com/drive/1FCqJE0bfATR18SmTReZ_5otqV8zucTWv?usp=sharing).  
-Raw Data can be found [HERE](https://drive.google.com/file/d/14J-OyRUCwEob2rfUriuIg0qEKMAzVBBW/view?usp=sharing).  
 
 ### Table of Contents for Repository Artifacts
 | File Number  | Title                     | Description                                                                                                   |
 | :----------: | ------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 1            | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE                                                                                    |
-| 2            | [RAW DATA FILE HERE](URL HERE)      | DESCRIPTION HERE                                                                                    |
-| 3            | README.md                           | This current page with all relevant information about the project, just past the Table of contents. |
-| 4            | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_Science_Projects/blob/main/Retro%20Gaming%20Console%20Sales/Requirements.txt)        | A simple .txt file with the provided project requirements as provided by TripleTen.                 |
+| 1            | README.md                           | This current page with all relevant information about the project, just past the Table of contents. |
+| 2            | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_Science_Projects/blob/main/Retro%20Gaming%20Console%20Sales/Requirements.txt)        | A simple .txt file with the provided project requirements as provided by TripleTen.                 |
+| 3            | [Retro_Gaming_Console_Sales.jpynb](https://github.com/Tiffany-Bergett/Data_Science_Projects/blob/main/Retro%20Gaming%20Console%20Sales/Retro_Gaming_Console_Sales.ipynb) | Jupyter Notebook file with analytical work and recommendations.                                                                                    |
+| 4            | [gaming_consoles.csv](https://github.com/Tiffany-Bergett/Data_Science_Projects/blob/main/Retro%20Gaming%20Console%20Sales/gaming_consoles.csv)      | Raw data used for this project.                                                                                    |
 
 ### Table of Contents for README
 | Section Title           | Description                                                                     |
