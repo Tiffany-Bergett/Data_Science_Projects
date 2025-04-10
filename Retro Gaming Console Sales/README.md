@@ -19,17 +19,16 @@ Raw Data can be found [HERE]().
 ### Table of Contents for README
 | Section Title           | Description                                                                     |
 | :------------ | :-------------------------------------------------------------------------- |
-| [Description](LINK)     | Describes the final product's purpose, software, format, and included visuals.  |
-| [Process](LINK)         | Describes the process, including tools or tech used.                            |
-| [Data](LINK)            | Describes the data source, including files, tables, and fields.                 |
-| [Assumptions](LINK)     | Describes assumptions to include those given by TripleTen and assumptions made. |
-| [Findings](LINK)        | Insights learned from the data analysis.                                        |
-| [Recommendations](LINK) | Recommended direction for the stakeholders based on the final analysis.         |
+| [Description](https://github.com/Tiffany-Bergett/Data_Science_Projects/tree/main/Retro%20Gaming%20Console%20Sales#description)     | Describes the final product's purpose, software, format, and included visuals.  |
+| [Process](https://github.com/Tiffany-Bergett/Data_Science_Projects/tree/main/Retro%20Gaming%20Console%20Sales#process)         | Describes the process, including tools or tech used.                            |
+| [Data](https://github.com/Tiffany-Bergett/Data_Science_Projects/tree/main/Retro%20Gaming%20Console%20Sales#data)            | Describes the data source, including files, tables, and fields.                 |
+| [Assumptions](https://github.com/Tiffany-Bergett/Data_Science_Projects/tree/main/Retro%20Gaming%20Console%20Sales#assumptions)     | Describes assumptions to include those given by TripleTen and assumptions made. |
+| [Findings](https://github.com/Tiffany-Bergett/Data_Science_Projects/tree/main/Retro%20Gaming%20Console%20Sales#findings)        | Insights learned from the data analysis.                                        |
+| [Recommendations](https://github.com/Tiffany-Bergett/Data_Science_Projects/tree/main/Retro%20Gaming%20Console%20Sales#recommendations) | Recommended direction for the stakeholders based on the final analysis.         |
 
 #### Description:
-\-   Python code files (.py or .ipynb if you used a notebook)
-
-\-   This project analyzes historical sales data of gaming consoles to provide insights into sales trends and console performance.
+-   Python via Google Collab (.ipynb notebook).
+-   7 coding tasks completed plus scenario and recommendations.
 
 #### Process:
 1)   Accessing and displaying data from the nested list.  
