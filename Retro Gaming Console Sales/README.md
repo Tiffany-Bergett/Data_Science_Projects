@@ -1,12 +1,12 @@
 🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧 
 # Gaming Console Sales Analysis
 
-This project involved analyzing a dataset of historical gaming console sales data to derive insights into sales trends and console performance. The analysis was conducted as part of a tech bootcamp (TripleTen) to demonstrate foundational Python skills.
+This project involved analyzing a dataset of historical gaming console sales data to derive insights into sales trends and console performance. The analysis was conducted as part of a tech boot camp (TripleTen) to demonstrate foundational Python skills.
 
-[<img src="URL OF IMAGE HERE" alt="Gaming Console Data Analysis Sample">](URL OF DESTINATION)  
+[<img src="https://github.com/Tiffany-Bergett/tiffany-bergett/blob/main/Images/GameConsoles.png" alt="Gaming Console Data Analysis Sample">](URL OF DESTINATION)  
 The video overview can be found [HERE]().  
-The project can be found [HERE]().  
-Raw Data can be found [HERE]().  
+The project can be found [HERE](https://colab.research.google.com/drive/1FCqJE0bfATR18SmTReZ_5otqV8zucTWv?usp=sharing).  
+Raw Data can be found [HERE](https://drive.google.com/file/d/14J-OyRUCwEob2rfUriuIg0qEKMAzVBBW/view?usp=sharing).  
 
 ### Table of Contents for Repository Artifacts
 | File Number  | Title                     | Description                                                                                                   |
