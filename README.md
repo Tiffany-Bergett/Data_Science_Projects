@@ -3,5 +3,5 @@ Portfolio page for projects completed while attending the Business Intelligence 
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Retro Gaming Console Sales](https://github.com/Tiffany-Bergett/Data_Science_Projects/tree/main/Retro%20Gaming%20Console%20Sales) Feb 2025 | A **Sales Performance Analysis** for historical gaming console data via **Python**. |
+| 1 | [Retro Gaming Console Sales](https://github.com/Tiffany-Bergett/Data_Science_Projects/tree/main/Retro%20Gaming%20Console%20Sales)<br>Feb 2025 | A **Sales Performance Analysis** for historical gaming console data via **Python**. |
 
